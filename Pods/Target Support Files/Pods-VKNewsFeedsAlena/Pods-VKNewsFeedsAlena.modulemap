@@ -1,0 +1,6 @@
+framework module Pods_VKNewsFeedsAlena {
+  umbrella header "Pods-VKNewsFeedsAlena-umbrella.h"
+
+  export *
+  module * { export * }
+}
